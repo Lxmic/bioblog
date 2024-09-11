@@ -173,3 +173,26 @@ tr:nth-child(even) { background: #eee }
   width: 50%;
   margin-left: 0;
 }
+
+.callout {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+}
+
+.callout.note {
+  border-left-color: #428bca;
+  background-color: #f4f8fa;
+}
+
+.callout.warning {
+  border-left-color: #f0ad4e;
+  background-color: #fef9e7;  /* 浅黄色背景 */
+}
+
+.callout.danger {
+  border-left-color: #d9534f;
+  background-color: #fdf7f7;  /* 浅红色背景 */
+}

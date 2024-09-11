@@ -30,3 +30,9 @@ tags:
 
 ![pic4](image-3.png)
 
+<iframe id="test" src="//player.bilibili.com/player.html?isOutside=true&aid==113118063691019&bvid=BV1mZ4zeDEQb&cid=25823480546&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
+
+<script type="text/javascript">
+document.getElementById("test").style.height=document.getElementById("test").scrollWidth*0.76+"px";
+</script>
+
