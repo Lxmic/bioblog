@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "Hugo XMag"
+title: "Lxmic Blog"
 theme: "hugo-xmag"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
@@ -30,8 +30,8 @@ menu:
       url: index.xml
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 - 2023 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  description: "Record concepts and new knowledge"
+  footer: "&copy; [lxmic](https://yihui.org) 2024"
   github_edit: "https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/"
   summary_length: 300
   text:
