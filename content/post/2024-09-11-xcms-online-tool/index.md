@@ -13,7 +13,9 @@ thumbnail: https://cdn.jsdelivr.net/gh/lxmic/Picture-bed@master/uPic/2024-09-11f
 
 ## 注册XCMS网站
 网址：[https://xcmsonline.scripps.edu/landing_page.php?pgcontent=mainPage](https://xcmsonline.scripps.edu/landing_page.php?pgcontent=mainPage)
-
+{{% callout note %}}
+最好使用edu的邮箱，否则不好注册。
+{{% /callout %}}
 ![sign-up](image.png)
 ![email](image-1.png)
 
@@ -27,6 +29,9 @@ thumbnail: https://cdn.jsdelivr.net/gh/lxmic/Picture-bed@master/uPic/2024-09-11f
 ![vendor](image-3.png)
 Ailgent的数据格式`.d`需要进行转换，通常可以将其转换为`.mzxml`。否则是无法整个上传，会将文件夹中的所有文件分开上传。转换后数据如下：
 ![mzxml](image-6.png)
+{{% callout note %}}
+转换方法详情见文章[MSconvert](https://lxmic.netlify.app/post/msconvert/)
+{{% /callout %}}
 
 ## 上传需要比较的文件
 ### <font color=orange>先上传对照组，生物学重复一起上传</font>
@@ -71,3 +76,8 @@ Ailgent的数据格式`.d`需要进行转换，通常可以将其转换为`.mzxm
 
 点击表格上的行可以再表格右边显示feature详细信息，包括EIC和MS spectrum，以及最右下角可能物质的展示。
 ![Alt text](image-20.png)
+
+![Alt text](image-20.png)
+{{% callout note %}}
+对某些物质进一步分析，用MassHunter工具分析，根据二级质谱推测可能的物质结果。
+{{% /callout %}}
