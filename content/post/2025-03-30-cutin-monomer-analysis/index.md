@@ -40,7 +40,12 @@ tags:
 
 > **2 ml Methanolic HCl配制**：<font color=red>0.3 ml</font> 8%盐酸甲醇溶液（9.7 ml 浓盐酸 + 41.5 ml 甲醇）+ <font color=red>0.2 ml</font> 甲苯 + <font color=red>1.5 ml</font> 甲醇。
 
-3. 待溶液冷却至室温，加入50-100 µl <font color=seagreen>C32 alkane</font>内标（母液<font color=red>200 µg/ml</font>：10 mg粉末 + 50 ml氯仿）。
+> **20 ml Methanolic HCl配制**: <font color=red>17.47 ml</font>甲醇 + <font color=red>582 µl</font>浓盐酸 + <font color=red>2 ml</font>甲苯。
+
+3. 待溶液冷却至室温，各加入5 µl 浓度为5 mg/ml的<font color=seagreen>Methyl heptadecanoate (C17:0) 和 ω-pentadecalactone (C15:0)</font>母液作为内标。
+
+>母液<font color=red>5 mg/ml</font>：5 mg粉末 + 1 ml甲醇。
+
 4. 向溶液中加入2 ml饱和NaCl浓液，以终止解聚反应。
 5. 继续加入2 ml hexane（用于提取在上述解聚过程中产生的<font color=seagreen>甲基化的脂肪酸以及其他单体</font>），剧烈振荡，随后静置1-2 min，使其相分离。上层hexane相用玻璃注射器小心的吸取出来，转移到干净的玻璃管中。
 
