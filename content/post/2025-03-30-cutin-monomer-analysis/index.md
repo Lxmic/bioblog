@@ -1,6 +1,6 @@
 ---
 title: Cutin monomer analysis
-author: Package Build
+author: Jianfeng Jin
 date: '2025-03-30'
 slug: cutin-monomer-analysis
 categories:
@@ -31,19 +31,21 @@ tags:
 2. 镊子
 3. 玻璃注射器
 4. 刀片
-   {% note info %} 以上工具使用前用氯仿清洗。{% endnote %}
+> 以上工具使用前用氯仿清洗。
 
 ## <font color=seagreen>Cutin提取步骤</font>
 
 1. 每个样品至少1-3 mg干重样品，记录样品重量，将样品研磨充分。
 2. 加入2 ml <font color=green>methanolic HCl</font>溶液，混匀立即转移至玻璃瓶中， 80°C加热2 h（水浴或着金属浴），在加热过程中压力会增加，注意30 min的时候，做好防护拧开盖子，释放压力，然后再拧好。
-   {% note info %} 
-   **2 ml Methanolic HCl配制**：<font color=red>0.3 ml</font> 8%盐酸甲醇溶液（9.7 ml 浓盐酸 + 41.5 ml 甲醇）+ <font color=red>0.2 ml</font> 甲苯 + <font color=red>1.5 ml</font> 甲醇。
-   {% endnote %}
+
+> **2 ml Methanolic HCl配制**：<font color=red>0.3 ml</font> 8%盐酸甲醇溶液（9.7 ml 浓盐酸 + 41.5 ml 甲醇）+ <font color=red>0.2 ml</font> 甲苯 + <font color=red>1.5 ml</font> 甲醇。
+
 3. 待溶液冷却至室温，加入50-100 µl <font color=seagreen>C32 alkane</font>内标（母液<font color=red>200 µg/ml</font>：10 mg粉末 + 50 ml氯仿）。
 4. 向溶液中加入2 ml饱和NaCl浓液，以终止解聚反应。
 5. 继续加入2 ml hexane（用于提取在上述解聚过程中产生的<font color=seagreen>甲基化的脂肪酸以及其他单体</font>），剧烈振荡，随后静置1-2 min，使其相分离。上层hexane相用玻璃注射器小心的吸取出来，转移到干净的玻璃管中。
-   {% note info %}如果样品比较多，那么step2中可以增加methanol/HCl的用量。若相分离过程中，界限不明确，需要增加更多的有机溶剂或者水剧烈振荡。{% endnote %}
+
+> 如果样品比较多，那么step2中可以增加methanol/HCl的用量。若相分离过程中，界限不明确，需要增加更多的有机溶剂或者水剧烈振荡。
+
 6. 重复步骤5两次。
 7. 混合所有的hexane相，用氮吹仪在60°C条件下蒸发至200 µl左右。
 8. 将最终的200 µl转移至玻璃管中，放置4°C保存，用于后续的衍生化及分析。
